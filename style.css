@@ -1,0 +1,36 @@
+ *{
+  font-size:14px;
+        box-sizing:border-box;
+        margin:0;
+        padding:0;
+        color:white;
+        font-family:verdana;
+}
+      body{
+        display:flex;
+        text-align:center;
+        justify-content:center;
+        height:49vh;
+        border-radius:10px solid blue;
+        
+      }
+      button{
+        color:red;
+        background-color:gold:
+          font-family:verdana;
+        border-radius:10px solid white;
+      }
+      button:hover{
+        transition:0.7 ease;
+      }
+      a{
+        list-style:none;
+        text-decoration:none;
+        background-color:blue;
+        border-radius:5px;
+      }
+      wrapper{
+        background-color:grey;
+        box-shadow:10px 10px black;
+       
+      }
